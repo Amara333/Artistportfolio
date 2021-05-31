@@ -1,0 +1,27 @@
+
+#myCanvas {
+
+    border: 1px solid Black;
+} 
+
+#bannor { 
+
+    text-align: center;
+}
+
+#bannorimage { 
+width: 100%;
+height: 300px; 
+
+}
+
+#bannor_text  {
+
+    position: absolute;
+    top: 4%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    font-size: 60;
+    font-family: 'Courier New', Courier, monospace;
+    color:white
+    }
